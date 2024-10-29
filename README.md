@@ -3,7 +3,7 @@
 <a href="https://wa.me/5512981590556?text=Olá%21+Gostaria+de+saber+mais+sobre+a+ALX+SDEVLAB&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/-WhastApp_-25d366?style=flat-square&logo=WhatsApp&logoColor=white"/></a>
 <a href="https://instagram.com/alx.sdevlab" target="_blank"><img src="https://img.shields.io/badge/-@alx.sdevlab_-E1306C?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://alx.sdevlab.net" target="_blank"><img src="https://img.shields.io/badge/-alx.sdevlab.net-264662?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.facebook.com/alx.sdevlab" target="_blank"><img src="https://img.shields.io/badge/-alx.sdevlab-0077B5?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/alxsdevlaboficial" target="_blank"><img src="https://img.shields.io/badge/-alx.sdevlab-0077B5?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="mailto:alx.sdevlab@gmail" target="_blank"><img src="https://img.shields.io/badge/-alx.sdevlab@gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
