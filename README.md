@@ -28,7 +28,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![sequelize](https://img.shields.io/badge/-sequelize-333333?style=flat&logo=sequelize)
 
-![docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
+![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
+![Portainer](https://img.shields.io/badge/-portainer-333333?style=flat&logo=portainer)
 ![pm2](https://img.shields.io/badge/-pm2-333333?style=flat&logo=pm2)
 
 ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
